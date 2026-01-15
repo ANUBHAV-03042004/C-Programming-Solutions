@@ -111,7 +111,7 @@ Contributions are welcome and encouraged 🎉
 
 Learning C builds a strong programming foundation that makes learning other languages easier.
 
-
+## ❤️ Footer
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="420"/>
 </p>
