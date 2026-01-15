@@ -96,11 +96,12 @@ Contributions are welcome and encouraged 🎉
 
  ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANUBHAV-03042004&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=21600" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUBHAV-03042004&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-</p>
+- 🔢 **Language Focus:** C Programming  
+- 🧠 **Concepts Covered:** Logic Building, Memory Management, Pointers  
+- 📂 **Repository Type:** Beginner to Intermediate  
+- 🛠 **Tools:** GCC, Linux, Git, GitHub  
+- 🌍 **Platform Support:** Linux | Windows | macOS
+
 
 ## 💻 Skills Used
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,linux,git,github" /> </p>
