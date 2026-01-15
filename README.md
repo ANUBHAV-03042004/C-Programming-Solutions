@@ -55,24 +55,27 @@ It is designed for **beginners**, **students**, and anyone who wants to strength
 ```
 
 ## 🧪 Sample C Program
-
+```
 #include <stdio.h>
 
 int main() {
     printf("Hello, World from C! 🚀\n");
     return 0;
 }
-
+```
 ## 🛠️ How to Compile & Run
 
 To run these programs, use the GCC compiler:
 
 # Compile the program
+```
 gcc filename.c -o output
+```
 
 # Run the executable
+```
 ./output
-
+```
 📌 Works on Linux, Windows (MinGW / WSL), and macOS
 
 ## 🧭 Learning Roadmap
